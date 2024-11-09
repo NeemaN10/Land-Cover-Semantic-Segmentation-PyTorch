@@ -75,7 +75,7 @@ For example, suppose the model has been trained on all the 30 classes of the <a 
  
  1. Clone the repository:
  ```shell
- git clone https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch.git
+ git clone https://github.com/NeemaN10/Land-Cover-Semantic-Segmentation-PyTorch.git
  ```
  2. Change to the project directory:
  ```shell
